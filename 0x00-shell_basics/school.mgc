@@ -1,2 +1,3 @@
 #!/bin/bash
-file --mime-type -F", " *
+file --mime-type *
+
