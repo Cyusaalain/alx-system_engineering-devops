@@ -52,7 +52,7 @@ Installing gunicorn and running the app server.
 ---
 
 ### Author
-Mitali Sengupta
+Cyusa Alain
 
 <img src="http://pluspng.com/img-png/twitter-png-file-png-image-200.png" width=2% height=2%/> [@aadhibangalan](https://twitter.com/aadhibangalan) 
 
